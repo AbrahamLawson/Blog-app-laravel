@@ -74,7 +74,7 @@ Greetings to everyone! Abraham from space 👋🧑‍🚀
 ## Fonctionnalités
 - **Front-end** : Le front-end est construit avec des Composants et Classes TailwindCSS.
 - **Publication et Gestion d'Articles** : Vous pouvez créer, éditer et supprimer vos propres articles. Partagez vos histoires avec le monde !
-- **Gestion des Autorisations avec Gates** : Nous avons intégré Laravel Gates pour gérer les autorisations. Assurez-vous que seules les bonnes personnes ont 
+- **Gestion des Autorisations avec Gates** : J'ai intégré Laravel Gates pour gérer les autorisations. Assurez-vous que seules les bonnes personnes ont 
 accès à certaines fonctionnalités.
 - **Authentification avec Laravel Breeze** : Laravel Breeze facilite la gestion de l'authentification. Connectez-vous et explorez le blog en toute 
 simplicité !
@@ -109,6 +109,6 @@ php artisan migrate --seed
 #Copy code
 php artisan serve
 
-Visitez http://localhost:8000 dans votre navigateur pour découvrir le Blog Laravel !
+Visitez (http://localhost:8000) dans votre navigateur pour découvrir le Blog Laravel !
 
-Happy coding! 🌟
+Happy coding! 🙃🌟
